@@ -1,6 +1,8 @@
 # lsrp-motels
 
 Thank you for downloading my LosSantosRP Motels Script, this will enable users to purchase a motel lot from any motels you specify in the Config file.
+MAKER ChrisRogersUK - 
+Bulgaria RP - NOT STEAL!
 
 All locations and rooms are configured in the Config.lua file, please ensure you keep the "format" how it is currently, 
 should be pretty easy to know how to add a extra motel, 
